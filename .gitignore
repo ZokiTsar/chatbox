@@ -175,3 +175,38 @@ electron-builder.env
 **/routeTree.gen.ts
 
 .env.sentry-build-plugin
+
+# My AddOn wich fail
+*.asar
+*.bare
+*.bin
+*.bplist
+*.crx
+*.dll
+*.exe
+*.gif
+*.gz
+*.ico
+*.icns
+*.idx
+*.jar
+*.jpg
+*.keychain
+*.lib
+*.otf
+*.pack
+*.pak
+# Ignoriraj vse datoteke s končnico .png
+*.png
+*.rev
+# Ignoriraj vse datoteke s končnico .swf
+*.swf
+*.tar
+*.tiff
+# Ignoriraj vse datoteke s končnico .ttf
+*.ttf
+*.wasm
+*.webp
+*.woff
+*.woff2
+*.zip
