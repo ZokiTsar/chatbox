@@ -199,17 +199,14 @@ electron-builder.env
 # Ignoriraj vse datoteke s končnico .png
 *.png
 *.rev
-<<<<<<< HEAD
 # Ignoriraj vse datoteke s končnico .swf
 *.swf
 *.tar
 *.tiff
 # Ignoriraj vse datoteke s končnico .ttf
-=======
 *.swf
 *.tar
 *.tiff
->>>>>>> 85076aaa44b2896686c903269e2058e13491a170
 *.ttf
 *.wasm
 *.webp
